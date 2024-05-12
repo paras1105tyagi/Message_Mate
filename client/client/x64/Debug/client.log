@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\paras\source\repos\client\main.cpp(38,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> C:\Users\paras\source\repos\client\x64\Debug\client.exe
